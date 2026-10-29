@@ -11,7 +11,7 @@ Built and tested on camera, bugs included, in **[Claude Code Skills Tutorial: I 
 ## Quick start
 
 ```bash
-git clone <REPO URL>
+git clone https://github.com/petranlaurentiu/upload-pack-skill.git
 cp -R upload-pack-skill/upload-pack your-project/.claude/skills/
 ```
 
