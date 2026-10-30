@@ -6,7 +6,7 @@ One command turns a finished video into everything you need to upload it: three 
 > /upload-pack episode 1
 ```
 
-Built and tested on camera, bugs included, in **[Claude Code Skills Tutorial: I Automated My YouTube Uploads](<VIDEO LINK>)** on LoFi Code Cafe.
+Built and tested on camera, bugs included, in **[this LoFi Code Cafe video](https://youtu.be/XTsdikFK6K8)**.
 
 ## Quick start
 
